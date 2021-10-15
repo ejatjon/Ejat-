@@ -1,0 +1,1353 @@
+#
+# Translators:
+# Abdusalam Huxur <2250907458@qq.com>, 2018
+# Dilmurat Tohti <boyhero@foxmail.com>, 2018
+# uyson <uyson@qq.com>, 2013-2014
+# ئىرشات غالىپ <uqkun09@msn.cn>, 2020-2021
+# ياسىن ئېلى <yasinjaneli@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: TinyMCE\n"
+"Report-Msgid-Bugs-To: http://tiny.cloud\n"
+"POT-Creation-Date: 2013-03-21 16:18:52+00:00\n"
+"PO-Revision-Date: 2021-09-13 13:07+0800\n"
+"Last-Translator: Joakim Lindkvist\n"
+"Language-Team: Uyghur (http://www.transifex.com/tiny/tinymce/language/ug/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\"#: i18n:\n"
+"Language: ug\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "Redo"
+msgstr "قايتىلاش"
+
+msgid "Undo"
+msgstr "ئارقىغا يېنىش"
+
+msgid "Cut"
+msgstr "كېسىش"
+
+msgid "Copy"
+msgstr "كۆچۈرۈش"
+
+msgid "Paste"
+msgstr "چاپلاش"
+
+msgid "Select all"
+msgstr "ھەممىنى تاللاش"
+
+msgid "New document"
+msgstr "يېڭى پۈتۈك"
+
+msgid "Ok"
+msgstr "جەزىملەش"
+
+msgid "Cancel"
+msgstr "قالدۇرۇش"
+
+msgid "Visual aids"
+msgstr "ئەسكەرتىش"
+
+msgid "Bold"
+msgstr "توم"
+
+msgid "Italic"
+msgstr "يانتۇ"
+
+msgid "Underline"
+msgstr "ئاستى سىزىق"
+
+msgid "Strikethrough"
+msgstr "ئۆچۈرۈش سىزىقى"
+
+msgid "Superscript"
+msgstr "ئۈستۈنكى بەلگە"
+
+msgid "Subscript"
+msgstr "ئاستىنقى بەلگە"
+
+msgid "Clear formatting"
+msgstr "فورماتنى تازلاش"
+
+msgid "Align left"
+msgstr "سولغا توغرىلاش"
+
+msgid "Align center"
+msgstr "مەركەزگە توغۇرلاش"
+
+msgid "Align right"
+msgstr "ئوڭغا توغۇرلاش"
+
+msgid "Justify"
+msgstr "ئىككى يانغا توغۇرلاش"
+
+msgid "Bullet list"
+msgstr "بەلگە تىزىملىك"
+
+msgid "Numbered list"
+msgstr "سانلىق تىزىملىك"
+
+msgid "Decrease indent"
+msgstr "ئالدىغا سۈرۈش"
+
+msgid "Increase indent"
+msgstr "كەينىگە سۈرۈش"
+
+msgid "Close"
+msgstr "تاقاش"
+
+msgid "Formats"
+msgstr "فورمات"
+
+msgid "Your browser doesn't support direct access to the clipboard. Please use the Ctrl+X/C/V keyboard shortcuts instead."
+msgstr "سىزنىڭ تور كۆرگۈچىڭىز قىيىپ چاپلاش تاختىسى زىيارەت قىلىشنى قوللىمايدۇ.  Ctrl+X/C/V تېزلەتمە كۇنۇپكىسى ئارقىلىق كېسىپ چاپلاش مەشغۇلاتى قىلىڭ."
+
+msgid "Headers"
+msgstr "بېشى"
+
+msgid "Header 1"
+msgstr "تېما 1"
+
+msgid "Header 2"
+msgstr "تېما 2"
+
+msgid "Header 3"
+msgstr "تېما 3"
+
+msgid "Header 4"
+msgstr "تېما 4"
+
+msgid "Header 5"
+msgstr "تېما 5"
+
+msgid "Header 6"
+msgstr "تېما 6"
+
+msgid "Headings"
+msgstr "ماۋزۇ"
+
+msgid "Heading 1"
+msgstr "1 دەرىجىلىك ماۋزۇ"
+
+msgid "Heading 2"
+msgstr "2 دەرىجىلىك ماۋزۇ"
+
+msgid "Heading 3"
+msgstr "3 دەرىجىلىك ماۋزۇ"
+
+msgid "Heading 4"
+msgstr "4 دەرىجىلىك ماۋزۇ"
+
+msgid "Heading 5"
+msgstr "5 دەرىجىلىك ماۋزۇ"
+
+msgid "Heading 6"
+msgstr "6 دەرىجىلىك ماۋزۇ"
+
+msgid "Preformatted"
+msgstr "ئالدىن فورماتلانغان"
+
+msgid "Div"
+msgstr "Div"
+
+msgid "Pre"
+msgstr "Pre"
+
+msgid "Code"
+msgstr "كود"
+
+msgid "Paragraph"
+msgstr "پاراگىرا ف"
+
+msgid "Blockquote"
+msgstr "ئەسكەرتىش"
+
+msgid "Inline"
+msgstr "ئىچكى"
+
+msgid "Blocks"
+msgstr "رايون"
+
+msgid "Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off."
+msgstr "ھازىر چاپلىسىڭىز ساپ تېكىست مەزمۇنى چاپلىنىدۇ. تېكىست شەكلىدە چاپلاش تەڭشىكىنى تاقىۋەتكەنگە قەدەر."
+
+msgid "Fonts"
+msgstr "خەت نۇسخىلىرى"
+
+msgid "Font Sizes"
+msgstr "خەت چوڭلۇقى"
+
+msgid "Class"
+msgstr "تۈر"
+
+msgid "Browse for an image"
+msgstr "رەسىمنى  كۆرسىتىش"
+
+msgid "OR"
+msgstr "ياكى"
+
+msgid "Drop an image here"
+msgstr "بۇ يەردىكى رەسىمنى ئۆچۈرۈش"
+
+msgid "Upload"
+msgstr "چىقىرىش"
+
+msgid "Block"
+msgstr "پارچە"
+
+msgid "Align"
+msgstr "توغرىلىنىشى"
+
+msgid "Default"
+msgstr "سۈكۈتتىكى"
+
+msgid "Circle"
+msgstr "چەمبەر"
+
+msgid "Disc"
+msgstr "دىسكا"
+
+msgid "Square"
+msgstr "كىۋادرات"
+
+msgid "Lower Alpha"
+msgstr "ئىنگلىزچە كىچىك يېزىلىشى"
+
+msgid "Lower Greek"
+msgstr "گىرېكچە كىچىك يېزىلىشى"
+
+msgid "Lower Roman"
+msgstr "رىمچە كىچىك يېزىلىشى"
+
+msgid "Upper Alpha"
+msgstr "ئىنگلىزچە چوڭ يېزىلىشى"
+
+msgid "Upper Roman"
+msgstr "رىمچە چوڭ يېزىلىشى"
+
+msgid "Anchor..."
+msgstr "لەڭگەر..."
+
+msgid "Name"
+msgstr "نامى"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Id should start with a letter, followed only by letters, numbers, dashes, dots, colons or underscores."
+msgstr "Id ھەرپ بىلەن باشلىنىپ، ئارقىسى پەقەت ھەرپ، سان، سىزىق، چېكىت، قوش چېكىت ۋە ئاستى سىزىقلار بولسا بولىدۇ."
+
+msgid "You have unsaved changes are you sure you want to navigate away?"
+msgstr "ساقلانمىغان ئۆزگەرتىشلىرىڭىز بار، راستتىنلا ئايرىلامسىز؟"
+
+msgid "Restore last draft"
+msgstr "ئاخىرقى ئارگىنالنى ئەسلىگە كەلتۈرۈش"
+
+msgid "Special character..."
+msgstr "ئالاھىدە ھەرپ-بەلگىلەر..."
+
+msgid "Source code"
+msgstr "مەنبە كودى"
+
+msgid "Insert/Edit code sample"
+msgstr "ئۈلگە كود قىستۇرۇش ياكى تەھرىرلەش"
+
+msgid "Language"
+msgstr "تىل"
+
+msgid "Code sample..."
+msgstr "ئۈلگە كود..."
+
+msgid "Color Picker"
+msgstr "رەڭ تاللىغۇچ"
+
+msgid "R"
+msgstr "R"
+
+msgid "G"
+msgstr "G"
+
+msgid "B"
+msgstr "B"
+
+msgid "Left to right"
+msgstr "سولدىن ئوڭغا"
+
+msgid "Right to left"
+msgstr "ئوڭدىن سولغا"
+
+msgid "Emoticons"
+msgstr "چىراي ئىپادىلىرى"
+
+msgid "Emoticons..."
+msgstr "چىراي ئىپادىلىرى..."
+
+msgid "Metadata and Document Properties"
+msgstr "مېتامەلۇمات ۋە ھۆججەت خاسلىقلىرى"
+
+msgid "Title"
+msgstr "تېمىسى"
+
+msgid "Keywords"
+msgstr "ھالقىلىق سۆزلەر"
+
+msgid "Description"
+msgstr "چۈشەندۈرۈشى"
+
+msgid "Robots"
+msgstr "ماشىنا ئادەم"
+
+msgid "Author"
+msgstr "ئاپتورى"
+
+msgid "Encoding"
+msgstr "كودىلاش"
+
+msgid "Fullscreen"
+msgstr "تولۇق ئېكران"
+
+msgid "Action"
+msgstr "مەشغۇلات"
+
+msgid "Shortcut"
+msgstr "قىسقا يول"
+
+msgid "Help"
+msgstr "ياردەم"
+
+msgid "Address"
+msgstr "ئادرېسى"
+
+msgid "Focus to menubar"
+msgstr "تىزىملىك بالدىقىنى فوكۇسلاش"
+
+msgid "Focus to toolbar"
+msgstr "قورالبالداقنى فوكۇسلاش"
+
+msgid "Focus to element path"
+msgstr "ئېلېمېنت يولىنى فوكۇسلاش"
+
+msgid "Focus to contextual toolbar"
+msgstr "كونتېكىستلىق قورالبالداقنى فوكۇسلاش"
+
+msgid "Insert link (if link plugin activated)"
+msgstr "ئۇلانما قىستۇرۇش (ئۇلانما قىستۇرمىسى ئاكتىپلانغان بولسا)"
+
+msgid "Save (if save plugin activated)"
+msgstr "ساقلاش (ساقلاش قىستۇرمىسى ئاكتىپلانغان بولسا)"
+
+msgid "Find (if searchreplace plugin activated)"
+msgstr "ئىزدەش (ئىزدەش ۋە ئالماشتۇرۇش قىستۇرمىسى ئاكتىپلانغان بولسا)"
+
+msgid "Plugins installed ({0}):"
+msgstr "قاچىلانغان قىستۇرمىلار ({0}):"
+
+msgid "Premium plugins:"
+msgstr "ئالىي قىستۇرمىلار:"
+
+msgid "Learn more..."
+msgstr "تەپسىلاتى..."
+
+msgid "You are using {0}"
+msgstr "ئىشلىتىۋاتقىنىڭىز {0}"
+
+msgid "Plugins"
+msgstr "قىستۇرمىلار"
+
+msgid "Handy Shortcuts"
+msgstr "قولايلىق قىسقا يوللار"
+
+msgid "Horizontal line"
+msgstr "گورىزونتال سىزىق"
+
+msgid "Insert/edit image"
+msgstr "رەسىم قىستۇرۇش ياكى تەھرىرلەش"
+
+msgid "Alternative description"
+msgstr "تاللانما چۈشەندۈرۈشى"
+
+msgid "Accessibility"
+msgstr "ياردەمچە ئىقتىدار"
+
+msgid "Image is decorative"
+msgstr "بېزەك رەسىم"
+
+msgid "Source"
+msgstr "مەنبە"
+
+msgid "Dimensions"
+msgstr "ئۆلچىمى"
+
+msgid "Constrain proportions"
+msgstr "نىسبەتنى چەكلەش"
+
+msgid "General"
+msgstr "دائىمىي"
+
+msgid "Advanced"
+msgstr "ئالىي"
+
+msgid "Style"
+msgstr "ئۇسلۇب"
+
+msgid "Vertical space"
+msgstr "ۋېرتىكال بوشلۇق"
+
+msgid "Horizontal space"
+msgstr "گورىزونتال بوشلۇق"
+
+msgid "Border"
+msgstr "گىرۋەك"
+
+msgid "Insert image"
+msgstr "رەسىم قىستۇرۇش"
+
+msgid "Image..."
+msgstr "رەسىم..."
+
+msgid "Image list"
+msgstr "رەسىم تىزىملىكى"
+
+msgid "Rotate counterclockwise"
+msgstr "سائەتكە قارشى چۆرۈش"
+
+msgid "Rotate clockwise"
+msgstr "سائەت يۆنىلىشىدە چۆرۈش"
+
+msgid "Flip vertically"
+msgstr "ۋېرتىكال ئۆرۈش"
+
+msgid "Flip horizontally"
+msgstr "گورىزونتال ئۆرۈش"
+
+msgid "Edit image"
+msgstr "رەسىم تەھرىرلەش"
+
+msgid "Image options"
+msgstr "رەسىم تاللانمىلىرى"
+
+msgid "Zoom in"
+msgstr "چوڭايتىش"
+
+msgid "Zoom out"
+msgstr "كىچىكلىتىش"
+
+msgid "Crop"
+msgstr "قىيىش"
+
+msgid "Resize"
+msgstr "چوڭلۇقىنى ئۆزگەرتىش"
+
+msgid "Orientation"
+msgstr "يۆنىلىشى"
+
+msgid "Brightness"
+msgstr "يورۇقلۇقى"
+
+msgid "Sharpen"
+msgstr "ئۆتكۈرلەشتۈرۈش"
+
+msgid "Contrast"
+msgstr "سېلىشتۇرمىسى"
+
+msgid "Color levels"
+msgstr "رەڭ دەرىجىلىرى"
+
+msgid "Gamma"
+msgstr "گامما"
+
+msgid "Invert"
+msgstr "تەتۈر"
+
+msgid "Apply"
+msgstr "قوللىنىش"
+
+msgid "Back"
+msgstr "قايتىش"
+
+msgid "Insert date/time"
+msgstr "چېسلا ياكى ۋاقىت قىستۇرۇش"
+
+msgid "Date/time"
+msgstr "چېسلا ياكى ۋاقىت"
+
+msgid "Insert/edit link"
+msgstr "ئۇلانما قىستۇرۇش ياكى تەھرىرلەش"
+
+msgid "Text to display"
+msgstr "كۆرسىتىدىغان تېكىست"
+
+msgid "Url"
+msgstr "ئادرېسى"
+
+msgid "Open link in..."
+msgstr "ئۇلانما ئېچىش ئورنى..."
+
+msgid "Current window"
+msgstr "نۆۋەتتىكى كۆزنەك"
+
+msgid "None"
+msgstr "يوق"
+
+msgid "New window"
+msgstr "يېڭى كۆزنەك"
+
+msgid "Open link"
+msgstr "ئۇلانما ئېچىش"
+
+msgid "Remove link"
+msgstr "ئۇلانمىنى چىقىرىۋېتىش"
+
+msgid "Anchors"
+msgstr "لەڭگەرلەر"
+
+msgid "Link..."
+msgstr "ئۇلانما..."
+
+msgid "Paste or type a link"
+msgstr "ئۇلانما چاپلاڭ ياكى كىرگۈزۈڭ"
+
+msgid "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?"
+msgstr "سىز كىرگۈزگەن ئادرېس تورخەت ئادرېسىدەك تۇرىدۇ. تەلەپ قىلىنغان mailto: ئالدى قوشۇمچىسىنى قوشامسىز؟"
+
+msgid "The URL you entered seems to be an external link. Do you want to add the required http:// prefix?"
+msgstr "سىز كىرگۈزگەن ئادرېس سىرتقى ئۇلانمىدەك تۇرىدۇ. تەلەپ قىلىنغان http:// ئالدى قوشۇمچىسىنى قوشامسىز؟"
+
+msgid "The URL you entered seems to be an external link. Do you want to add the required https:// prefix?"
+msgstr "سىز كىرگۈزگەن ئادرېس سىرتقى ئۇلانمىدەك تۇرىدۇ. تەلەپ قىلىنغان https:// ئالدى قوشۇمچىسىنى قوشامسىز؟"
+
+msgid "Link list"
+msgstr "ئۇلانما تىزىملىكى"
+
+msgid "Insert video"
+msgstr "سىن قىستۇرۇش"
+
+msgid "Insert/edit video"
+msgstr "سىن قىستۇرۇش ياكى تەھرىرلەش"
+
+msgid "Insert/edit media"
+msgstr "مېدىيا قىستۇرۇش ياكى تەھرىرلەش"
+
+msgid "Alternative source"
+msgstr "تاللانما مەنبە"
+
+msgid "Alternative source URL"
+msgstr "تاللانما مەنبە ئادرېسى"
+
+msgid "Media poster (Image URL)"
+msgstr "مېدىيا مۇقاۋىسى (رەسىم ئادرېسى)"
+
+msgid "Paste your embed code below:"
+msgstr "قىستۇرما كودىڭىزنى ئاستىغا چاپلاڭ:"
+
+msgid "Embed"
+msgstr "قىستۇرۇش"
+
+msgid "Media..."
+msgstr "مېدىيا..."
+
+msgid "Nonbreaking space"
+msgstr "ئۈزۈلمەس بوشلۇق"
+
+msgid "Page break"
+msgstr "بەت ئايرىش"
+
+msgid "Paste as text"
+msgstr "تېكىست شەكلىدە چاپلاش"
+
+msgid "Preview"
+msgstr "كۆرۈپ بېقىش"
+
+msgid "Print..."
+msgstr "بېسىش..."
+
+msgid "Save"
+msgstr "ساقلاش"
+
+msgid "Find"
+msgstr "ئىزدەش"
+
+msgid "Replace with"
+msgstr "ئالماشتۇرۇش مەزمۇنى"
+
+msgid "Replace"
+msgstr "ئالماشتۇرۇش"
+
+msgid "Replace all"
+msgstr "ھەممىنى ئالماشتۇرۇش"
+
+msgid "Previous"
+msgstr "ئالدىنقى"
+
+msgid "Next"
+msgstr "كېيىنكى"
+
+msgid "Find and Replace"
+msgstr "ئىزدەش ۋە ئالماشتۇرۇش"
+
+msgid "Find and replace..."
+msgstr "ئىزدەش ۋە ئالماشتۇرۇش..."
+
+msgid "Could not find the specified string."
+msgstr "بەلگىلەنگەن مەزمۇن تېپىلمىدى."
+
+msgid "Match case"
+msgstr "چوڭلۇقى ماس كېلىش"
+
+msgid "Find whole words only"
+msgstr "پۈتۈن سۆزنىلا ئىزدەش"
+
+msgid "Find in selection"
+msgstr "تاللانغاندىن ئىزدەش"
+
+msgid "Spellcheck"
+msgstr "ئىملا تەكشۈرۈش"
+
+msgid "Spellcheck Language"
+msgstr "ئىملا تەكشۈرۈش تىلى"
+
+msgid "No misspellings found."
+msgstr "ئىملا خاتالىقى تېپىلمىدى."
+
+msgid "Ignore"
+msgstr "ئۆتكۈزۈۋېتىش"
+
+msgid "Ignore all"
+msgstr "ھەممىنى ئۆتكۈزۈۋېتىش"
+
+msgid "Finish"
+msgstr "تامام"
+
+msgid "Add to Dictionary"
+msgstr "لۇغەتكە قوشۇش"
+
+msgid "Insert table"
+msgstr "جەدۋەل قىستۇرۇش"
+
+msgid "Table properties"
+msgstr "جەدۋەل خاسلىقلىرى"
+
+msgid "Delete table"
+msgstr "جەدۋەلنى ئۆچۈرۈش"
+
+msgid "Cell"
+msgstr "كاتەكچە"
+
+msgid "Row"
+msgstr "قۇر"
+
+msgid "Column"
+msgstr "ئىستون"
+
+msgid "Cell properties"
+msgstr "كاتەكچە خاسلىقلىرى"
+
+msgid "Merge cells"
+msgstr "كاتەكچە بىرلەشتۈرۈش"
+
+msgid "Split cell"
+msgstr "كاتەكچە پارچىلاش"
+
+msgid "Insert row before"
+msgstr "ئالدىغا قۇر قىستۇرۇش"
+
+msgid "Insert row after"
+msgstr "ئارقىغا قۇر قىستۇرۇش"
+
+msgid "Delete row"
+msgstr "قۇرنى ئۆچۈرۈش"
+
+msgid "Row properties"
+msgstr "قۇر خاسلىقلىرى"
+
+msgid "Cut row"
+msgstr "قۇر كېسىش"
+
+msgid "Copy row"
+msgstr "قۇر كۆچۈرۈش"
+
+msgid "Paste row before"
+msgstr "قۇر ئالدىغا چاپلاش"
+
+msgid "Paste row after"
+msgstr "قۇر ئارقىغا چاپلاش"
+
+msgid "Insert column before"
+msgstr "ئالدىغا ئىستون قىستۇرۇش"
+
+msgid "Insert column after"
+msgstr "ئارقىغا ئىستون قىستۇرۇش"
+
+msgid "Delete column"
+msgstr "ئىستوننى ئۆچۈرۈش"
+
+msgid "Cols"
+msgstr "ئىستونلار"
+
+msgid "Rows"
+msgstr "قۇرلار"
+
+msgid "Width"
+msgstr "كەڭلىكى"
+
+msgid "Height"
+msgstr "ئېگىزلىكى"
+
+msgid "Cell spacing"
+msgstr "كاتەكچە ئارىلىقى"
+
+msgid "Cell padding"
+msgstr "كاتەكچە ئىچكى ئارىلىقى"
+
+msgid "Caption"
+msgstr "تېمىسى"
+
+msgid "Show caption"
+msgstr "تېمىسىنى كۆرسىتىش"
+
+msgid "Left"
+msgstr "سولغا"
+
+msgid "Center"
+msgstr "ئوتتۇرىغا"
+
+msgid "Right"
+msgstr "ئوڭغا"
+
+msgid "Cell type"
+msgstr "كاتەكچە تىپى"
+
+msgid "Scope"
+msgstr "دائىرە"
+
+msgid "Alignment"
+msgstr "توغرىلاش"
+
+msgid "H Align"
+msgstr "گورىزونتال توغرىلاش"
+
+msgid "V Align"
+msgstr "ۋېرتىكال توغرىلاش"
+
+msgid "Top"
+msgstr "ئۈستىگە"
+
+msgid "Middle"
+msgstr "ئوتتۇرىغا"
+
+msgid "Bottom"
+msgstr "ئاستىغا"
+
+msgid "Header cell"
+msgstr "بەت قېشى كاتەكچىسى"
+
+msgid "Row group"
+msgstr "قۇر گۇرۇپپىسى"
+
+msgid "Column group"
+msgstr "ئىستون گۇرۇپپىسى"
+
+msgid "Row type"
+msgstr "قۇر تىپى"
+
+msgid "Header"
+msgstr "بەت قېشى"
+
+msgid "Body"
+msgstr "بەت گەۋدىسى"
+
+msgid "Footer"
+msgstr "بەت ئاستى"
+
+msgid "Border color"
+msgstr "گىرۋەك رەڭگى"
+
+msgid "Insert template..."
+msgstr "قېلىپ قىستۇرۇش..."
+
+msgid "Templates"
+msgstr "قېلىپلار"
+
+msgid "Template"
+msgstr "قېلىپ"
+
+msgid "Text color"
+msgstr "تېكىست رەڭگى"
+
+msgid "Background color"
+msgstr "تەگلىك رەڭگى"
+
+msgid "Custom..."
+msgstr "ئىختىيارىي..."
+
+msgid "Custom color"
+msgstr "ئىختىيارىي رەڭ"
+
+msgid "No color"
+msgstr "رەڭ يوق"
+
+msgid "Remove color"
+msgstr "رەڭنى چىقىرىۋېتىش"
+
+msgid "Table of Contents"
+msgstr "مۇندەرىجە"
+
+msgid "Show blocks"
+msgstr "بۆلەكلەرنى كۆرسىتىش"
+
+msgid "Show invisible characters"
+msgstr "يوشۇرۇن ھەرپ-بەلگىلەرنى كۆرسىتىش"
+
+msgid "Word count"
+msgstr "سۆز سانى"
+
+msgid "Count"
+msgstr "ساناش"
+
+msgid "Document"
+msgstr "ھۆججەت"
+
+msgid "Selection"
+msgstr "تاللانغان"
+
+msgid "Words"
+msgstr "سۆزلەر"
+
+#, csharp-format
+msgid "Words: {0}"
+msgstr "سۆزلەر: {0}"
+
+msgid "{0} words"
+msgstr "{0} سۆز"
+
+msgid "File"
+msgstr "ھۆججەت"
+
+msgid "Edit"
+msgstr "تەھرىرلەش"
+
+msgid "Insert"
+msgstr "قىستۇرۇش"
+
+msgid "View"
+msgstr "كۆرۈنۈش"
+
+msgid "Format"
+msgstr "فورمات"
+
+msgid "Table"
+msgstr "جەدۋەل"
+
+msgid "Tools"
+msgstr "قوراللار"
+
+msgid "Powered by {0}"
+msgstr "{0} تەمىنلىگەن"
+
+msgid "Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help"
+msgstr "فورماتلىق تېكىست رايونى. تىزىملىك ئۈچۈن ALT-F9 نى بېسىڭ. قورالبالداق ئۈچۈن ALT-F10 نى بېسىڭ. ياردەم ئۈچۈن ALT-0 نى بېسىڭ"
+
+msgid "Image title"
+msgstr "رەسىم تېمىسى"
+
+msgid "Border width"
+msgstr "گىرۋەك كەڭلىكى"
+
+msgid "Border style"
+msgstr "گىرۋەك ئۇسلۇبى"
+
+msgid "Error"
+msgstr "خاتالىق"
+
+msgid "Warn"
+msgstr "ئاگاھلاندۇرۇش"
+
+msgid "Valid"
+msgstr "ئۈنۈملۈك"
+
+msgid "To open the popup, press Shift+Enter"
+msgstr "سەكرىمە كۆزنەكنى ئېچىش ئۈچۈن Shift+Enter نى بېسىڭ"
+
+msgid "Rich Text Area. Press ALT-0 for help."
+msgstr "فورماتلىق تېكىست رايونى. ياردەم ئۈچۈن ALT-0 نى بېسىڭ."
+
+msgid "System Font"
+msgstr "سىستېما خەت نۇسخىسى"
+
+msgid "Failed to upload image: {0}"
+msgstr "رەسىمنى يۈكلىيەلمىدى: {0}"
+
+msgid "Failed to load plugin: {0} from url {1}"
+msgstr "قىستۇرمىنى يۈكلىيەلمىدى: {0} نىڭ مەنبە ئادرېسى {1}"
+
+msgid "Failed to load plugin url: {0}"
+msgstr "قىستۇرمىنى يۈكلىيەلمىدى ئادرېسى: {0}"
+
+msgid "Failed to initialize plugin: {0}"
+msgstr "قىستۇرمىنى دەسلەپلەشتۈرەلمىدى: {0}"
+
+msgid "example"
+msgstr "مەسىلەن"
+
+msgid "Search"
+msgstr "ئىزدەش"
+
+msgid "All"
+msgstr "ھەممە"
+
+msgid "Currency"
+msgstr "پۇل"
+
+msgid "Text"
+msgstr "تېكىست"
+
+msgid "Quotations"
+msgstr "نەقىللەر"
+
+msgid "Mathematical"
+msgstr "ماتېماتىكىلىق"
+
+msgid "Extended Latin"
+msgstr "كېڭەيتىلگەن لاتىن ھەرپلىرى"
+
+msgid "Symbols"
+msgstr "بەلگىلەر"
+
+msgid "Arrows"
+msgstr "ئىسترېلكىلار"
+
+msgid "User Defined"
+msgstr "ئىشلەتكۈچى بەلگىلىگەن"
+
+msgid "dollar sign"
+msgstr "دوللار بەلگىسى"
+
+msgid "currency sign"
+msgstr "پۇل بەلگىسى"
+
+msgid "euro-currency sign"
+msgstr "ياۋرو پۇل بەلگىسى"
+
+msgid "colon sign"
+msgstr "قوش چېكىت بەلگىسى"
+
+msgid "cruzeiro sign"
+msgstr "كرۇ بەلگىسى"
+
+msgid "french franc sign"
+msgstr "فىرانسىيە فىرانك بەلگىسى"
+
+msgid "lira sign"
+msgstr "لىرا بەلگىسى"
+
+msgid "mill sign"
+msgstr "مىل بەلگىسى"
+
+msgid "naira sign"
+msgstr "نايرا بەلگىسى"
+
+msgid "peseta sign"
+msgstr "پېسېتا بەلگىسى"
+
+msgid "rupee sign"
+msgstr "رۇپىيە بەلگىسى"
+
+msgid "won sign"
+msgstr "ۋون بەلگىسى"
+
+msgid "new sheqel sign"
+msgstr "يېڭى شىكىل بەلگىسى"
+
+msgid "dong sign"
+msgstr "ۋىيېتنام دوڭى بەلگىسى"
+
+msgid "kip sign"
+msgstr "كىپ بەلگىسى"
+
+msgid "tugrik sign"
+msgstr "تۈگرىك بەلگىسى"
+
+msgid "drachma sign"
+msgstr "دىراخما بەلگىسى"
+
+msgid "german penny symbol"
+msgstr "گېرمانىيە پېننى بەلگىسى"
+
+msgid "peso sign"
+msgstr "پېسو بەلگىسى"
+
+msgid "guarani sign"
+msgstr "گۇئارانى بەلگىسى"
+
+msgid "austral sign"
+msgstr "ئاۋسترالىيە پۇل بەلگىسى"
+
+msgid "hryvnia sign"
+msgstr "hryvnia بەلگىسى"
+
+msgid "cedi sign"
+msgstr "سېدى بەلگىسى"
+
+msgid "livre tournois sign"
+msgstr "livre tournois بەلگىسى"
+
+msgid "spesmilo sign"
+msgstr "spesmilo بەلگىسى"
+
+msgid "tenge sign"
+msgstr "tenge بەلگىسى"
+
+msgid "indian rupee sign"
+msgstr "ھىندىستان رۇپىيە بەلگىسى"
+
+msgid "turkish lira sign"
+msgstr "تۈركىيە لىرا بەلگىسى"
+
+msgid "nordic mark sign"
+msgstr "شىمالىي ياۋروپا مارك بەلگىسى"
+
+msgid "manat sign"
+msgstr "manat بەلگىسى"
+
+msgid "ruble sign"
+msgstr "رۇبلى بەلگىسى"
+
+msgid "yen character"
+msgstr "يېن بەلگىسى"
+
+msgid "yuan character"
+msgstr "يۈەن بەلگىسى"
+
+msgid "yuan character, in hong kong and taiwan"
+msgstr "يۈەن بەلگىسى (شياڭگاڭ ۋە تەيۋەن)"
+
+msgid "yen/yuan character variant one"
+msgstr "يېن ۋە يۈەن بەلگىسى"
+
+msgid "Loading emoticons..."
+msgstr "چىراي ئىپادىلىرى يۈكلىنىۋاتىدۇ..."
+
+msgid "Could not load emoticons"
+msgstr "چىراي ئىپادىلىرى يۈكلەنمىدى"
+
+msgid "People"
+msgstr "ئادەملەر"
+
+msgid "Animals and Nature"
+msgstr "ھايۋانلار ۋە تەبىئەت"
+
+msgid "Food and Drink"
+msgstr "يېمەك-ئىچمەك"
+
+msgid "Activity"
+msgstr "پائالىيەت"
+
+msgid "Travel and Places"
+msgstr "ساياھەت ۋە جايلار"
+
+msgid "Objects"
+msgstr "نەرسىلەر"
+
+msgid "Flags"
+msgstr "بايراقلار"
+
+msgid "Characters"
+msgstr "ھەرپ-بەلگىلەر"
+
+msgid "Characters (no spaces)"
+msgstr "ھەرپ-بەلگىلەر (بوشلۇقنى ئۆز ئىچىگە ئالمايدۇ)"
+
+msgid "{0} characters"
+msgstr "{0} ھەرپ-بەلگە"
+
+msgid "Error: Form submit field collision."
+msgstr "خاتالىق: رامكا (form) يوللاش بۆلىكى توقۇنۇشتى."
+
+msgid "Error: No form element found."
+msgstr "خاتالىق: رامكا (form) ئېلېمېنتى تېپىلمىدى."
+
+msgid "Update"
+msgstr "يېڭىلاش"
+
+msgid "Color swatch"
+msgstr "رەڭ ئۈلگىسى"
+
+msgid "Turquoise"
+msgstr "كۆكۈچ يېشىل"
+
+msgid "Green"
+msgstr "يېشىل"
+
+msgid "Blue"
+msgstr "كۆك"
+
+msgid "Purple"
+msgstr "بىنەپشە"
+
+msgid "Navy Blue"
+msgstr "دېڭىز كۆك"
+
+msgid "Dark Turquoise"
+msgstr "توق كۆكۈچ يېشىل"
+
+msgid "Dark Green"
+msgstr "توق يېشىل"
+
+msgid "Medium Blue"
+msgstr "ئارا كۆك"
+
+msgid "Medium Purple"
+msgstr "ئارا بىنەپشە"
+
+msgid "Midnight Blue"
+msgstr "قارا كۆك"
+
+msgid "Yellow"
+msgstr "سېرىق"
+
+msgid "Orange"
+msgstr "قىزغۇچ سېرىق"
+
+msgid "Red"
+msgstr "قىزىل"
+
+msgid "Light Gray"
+msgstr "ئاچ كۈلرەڭ"
+
+msgid "Gray"
+msgstr "كۈلرەڭ"
+
+msgid "Dark Yellow"
+msgstr "توق سېرىق"
+
+msgid "Dark Orange"
+msgstr "توق قىزغۇچ"
+
+msgid "Dark Red"
+msgstr "توق قىزىل"
+
+msgid "Medium Gray"
+msgstr "ئوتتۇرھال كۈلرەڭ"
+
+msgid "Dark Gray"
+msgstr "توق كۈلرەڭ"
+
+msgid "Light Green"
+msgstr "ئاچ يېشىل"
+
+msgid "Light Yellow"
+msgstr "ئاچ سېرىق"
+
+msgid "Light Red"
+msgstr "ئاچ قىزىل"
+
+msgid "Light Purple"
+msgstr "ئاچ بىنەپشە"
+
+msgid "Light Blue"
+msgstr "ئاچ كۆك"
+
+msgid "Dark Purple"
+msgstr "توق بىنەپشە"
+
+msgid "Dark Blue"
+msgstr "توق كۆك"
+
+msgid "Black"
+msgstr "قارا"
+
+msgid "White"
+msgstr "ئاق"
+
+msgid "Switch to or from fullscreen mode"
+msgstr "تولۇق ئېكران ھالىتىنى ئالماشتۇرۇش"
+
+msgid "Open help dialog"
+msgstr "ياردەم دىيالوگىنى ئېچىش"
+
+msgid "history"
+msgstr "تارىخىي ئۇچۇر"
+
+msgid "styles"
+msgstr "ئۇسلۇبلار"
+
+msgid "formatting"
+msgstr "فورماتلاش"
+
+msgid "alignment"
+msgstr "توغرىلاش"
+
+msgid "indentation"
+msgstr "تارايتىش"
+
+msgid "Font"
+msgstr "خەت نۇسخىسى"
+
+msgid "Size"
+msgstr "چوڭلۇقى"
+
+msgid "More..."
+msgstr "تېخىمۇ كۆپ..."
+
+msgid "Select..."
+msgstr "تاللاش..."
+
+msgid "Preferences"
+msgstr "مايىللىقلىرى"
+
+msgid "Yes"
+msgstr "ھەئە"
+
+msgid "No"
+msgstr "ياق"
+
+msgid "Keyboard Navigation"
+msgstr "يۆتكىلىشچان كۇنۇپكا تاختىسى"
+
+msgid "Version"
+msgstr "نەشرى"
+
+msgid "Code view"
+msgstr "كود كۆرۈنۈشى"
+
+msgid "Open popup menu for split buttons"
+msgstr "بۆلۈنمە كۇنۇپكىلار ئۈچۈن سەكرىمە تىزىملىك ئېچىش"
+
+msgid "List Properties"
+msgstr "تىزىملىك خاسلىقلىرى"
+
+msgid "List properties..."
+msgstr "تىزىملىك خاسلىقلىرى..."
+
+msgid "Start list at number"
+msgstr "تىزىملىكنى سان بىلەن باشلاش"
+
+msgid "Line height"
+msgstr "قۇر ئارىلىقى"
+
+# The following are Premium Plugin strings
+msgid "comments"
+msgstr "ئىنكاسلار"
+
+msgid "Format Painter"
+msgstr "فورمات كۆچۈرگۈچ"
+
+msgid "Insert/edit iframe"
+msgstr "رامكا (iframe) قىستۇرۇش ياكى تەھرىرلەش"
+
+msgid "Capitalization"
+msgstr "چوڭ ھەرپكە ئالماشتۇرۇش"
+
+msgid "lowercase"
+msgstr "كىچىك ھەرپ"
+
+msgid "UPPERCASE"
+msgstr "چوڭ ھەرپ"
+
+msgid "Title Case"
+msgstr "تېما ئۇسلۇبى"
+
+msgid "permanent pen"
+msgstr "دائىملىق قەلەم"
+
+msgid "Permanent Pen Properties"
+msgstr "دائىملىق قەلەم خاسلىقلىرى"
+
+msgid "Permanent pen properties..."
+msgstr "دائىملىق قەلەم خاسلىقلىرى..."
+
+msgid "case change"
+msgstr "چوڭلۇقىنى ئۆزگەرتىش"
+
+msgid "page embed"
+msgstr "قىستۇرما بەت"
+
+msgid "Advanced sort..."
+msgstr "ئالىي تىزىش..."
+
+msgid "Advanced Sort"
+msgstr "ئالىي تىزىش"
+
+msgid "Sort table by column ascending"
+msgstr "جەدۋەلنى ئىستوننىڭ ئېشىشى بويىچە تىزىش"
+
+msgid "Sort table by column descending"
+msgstr "جەدۋەلنى ئىستوننىڭ كېمىيىشى بويىچە تىزىش"
+
+msgid "Sort"
+msgstr "تىزىش"
+
+msgid "Order"
+msgstr "تەرتىپى"
+
+msgid "Sort by"
+msgstr "تىزىش شەكلى"
+
+msgid "Ascending"
+msgstr "ئېشىش"
+
+msgid "Descending"
+msgstr "كېمىيىش"
+
+msgid "Column {0}"
+msgstr "{0} ئىستون"
+
+msgid "Row {0}"
+msgstr "{0}-قۇر"
+
+msgid "Spellcheck..."
+msgstr "ئىملا تەكشۈرۈش..."
+
+msgid "Misspelled word"
+msgstr "خاتا سۆز"
+
+msgid "Suggestions"
+msgstr "تەۋسىيەلەر"
+
+msgid "Change"
+msgstr "ئۆزگەرتىش"
+
+msgid "Finding word suggestions"
+msgstr "تەۋسىيە سۆزلەرنى ئىزدەش"
+
+msgid "Success"
+msgstr "ئوڭۇشلۇق بولدى"
+
+msgid "Repair"
+msgstr "ئوڭشاش"
+
+msgid "Issue {0} of {1}"
+msgstr "{0}-مەسىلە، جەمئىي {1} مەسىلە"
+
+msgid "Images must be marked as decorative or have an alternative text description"
+msgstr "رەسىملەرنىڭ چوقۇم بېزەك بەلگىسى ياكى تاللانما تېكىست چۈشەندۈرۈشى بولۇشى كېرەك"
+
+msgid "Images must have an alternative text description. Decorative images are not allowed."
+msgstr "رەسىملەرنىڭ چوقۇم تاللانما تېكىست چۈشەندۈرۈشى بولۇشى كېرەك. بېزەك رەسىملەرگە رۇخسەت قىلىنمايدۇ."
+
+msgid "Or provide alternative text:"
+msgstr "ياكى تاللانما تېكىستنى كىرگۈزۈڭ:"
+
+msgid "Make image decorative:"
+msgstr "بېزەك رەسىم قىلىڭ:"
+
+msgid "ID attribute must be unique"
+msgstr "ID خاسلىقى بىردىنبىر بولۇشى كېرەك"
+
+msgid "Make ID unique"
+msgstr "ID نى بىردىنبىر قىلىش"
+
+msgid "Keep this ID and remove all others"
+msgstr "بۇ ID دىن باشقىلىرىنى چىقىرىۋېتىش"
+
+msgid "Remove this ID"
+msgstr "بۇ ID نى چىقىرىۋېتىش"
+
+msgid "Remove all IDs"
+msgstr "بارلىق ID نى چىقىرىۋېتىش"
+
+msgid "Checklist"
+msgstr "تاللانما تىزىملىك"
